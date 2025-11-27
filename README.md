@@ -206,7 +206,7 @@
       {
         nick: 'Психология',
         rank: 'owner',           
-        rankName: 'разработчик',
+        rankName: 'Разработчик',
         media: 'Высокая медийка', // медиапопулярность
         since: '0000',
         profile: 'https://t.me/psixotatia',
@@ -214,14 +214,14 @@
         desc: 'разработчик сайта (0000 это эксклюзивный тест номер)'
       },
       {
-        nick: 'NoName',
+        nick: 'Koshmarov',
         rank: 'medium',
-        rankName: 'Средняя',
-        media: 'Малая медийка',
-        since: '2025',
-        profile: 'https://t.me/noname',
+        rankName: 'Высокая',
+        media: 'Высокая медийка',
+        since: '2022',
+        profile: 'Https://t.me/koshmarovbog',
         img: 'assets/avatars/avatar1.png',
-        desc: 'описание'
+        desc: 'личность которую практически везде узнают'
       },
       {
         nick: 'NoName',
