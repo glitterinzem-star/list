@@ -234,6 +234,36 @@
         desc: 'описание'
       },
       {
+        nick: 'NoName',
+        rank: 'medium',
+        rankName: 'Средняя',
+        media: 'Малая медийка',
+        since: '2025',
+        profile: 'https://t.me/noname',
+        img: 'assets/avatars/avatar1.png',
+        desc: 'описание'
+      },
+      {
+        nick: 'NoName',
+        rank: 'medium',
+        rankName: 'Средняя',
+        media: 'Малая медийка',
+        since: '2025',
+        profile: 'https://t.me/noname',
+        img: 'assets/avatars/avatar1.png',
+        desc: 'описание'
+      },
+      {
+        nick: 'NoName',
+        rank: 'medium',
+        rankName: 'Средняя',
+        media: 'Малая медийка',
+        since: '2025',
+        profile: 'https://t.me/noname',
+        img: 'assets/avatars/avatar1.png',
+        desc: 'описание'
+      },
+      {
         nick: 'ScammerGuy',
         rank: 'banned',
         rankName: 'Бомж/скамер',
