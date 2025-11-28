@@ -228,7 +228,7 @@
         rank: 'medium',
         rankName: 'Средняя',
         media: 'Средняя мидийка',
-        since: '2025',
+        since: '2022',
         profile: 'https://t.me/weizovv',
         img: 'https://github.com/glitterinzem-star/list/raw/c012d6e23ddd60a106ce75fa9a45abf57627536b/weizovv.jpg.jpg',
         desc: 'личность которую почти везде узнают'
