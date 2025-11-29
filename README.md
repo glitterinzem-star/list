@@ -234,14 +234,14 @@
         desc: 'личность которую почти везде узнают'
       },
       {
-        nick: 'NoName',
+        nick: 'Мира Маньяк',
         rank: 'medium',
         rankName: 'Средняя',
-        media: 'Малая медийка',
-        since: '2025',
+        media: 'Средняя медийка',
+        since: '2024',
         profile: 'https://t.me/noname',
         img: 'assets/avatars/avatar1.png',
-        desc: 'описание'
+        desc: 'средне узнаваемая личность'
       },
       {
         nick: 'NoName',
