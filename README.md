@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="utf-8" />
@@ -306,7 +305,6 @@
         </a>
       </div>
     </div>
-  </main>
 
   <footer class="site-footer">
     <div class="container">
