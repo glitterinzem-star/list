@@ -373,7 +373,7 @@
         rankName: 'Средняя',
         media: 'Средняя медийка',
         since: '2023',
-        number: '1611',
+        number: '6666',
         profile: 'https://t.me/clonlega',
         img: 'assets/avatars/avatar1.png',
         desc: 'часто узнаваемая личность ( номер был словлен на аукционе)'
