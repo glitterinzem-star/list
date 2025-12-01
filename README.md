@@ -368,14 +368,15 @@
         desc: 'средне узнаваемая личность'
       },
       {
-        nick: 'NoName',
+        nick: 'Vk Lega',
         rank: 'medium',
         rankName: 'Средняя',
-        media: 'Малая медийка',
-        since: '2025',
-        profile: 'https://t.me/noname',
+        media: 'Средняя медийка',
+        since: '2023',
+        number: '1611',
+        profile: 'https://t.me/clonlega',
         img: 'assets/avatars/avatar1.png',
-        desc: 'описание'
+        desc: 'часто узнаваемая личность ( номер был словлен на аукционе)'
       },
       {
         nick: 'NoName',
