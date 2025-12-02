@@ -346,7 +346,7 @@
         number: '1111',
         profile: 'Https://t.me/koshmarovbog',
         img: 'https://github.com/glitterinzem-star/list/raw/21f4f07d00cb39e3a613b2ee242e7114ac35a78d/kosh.jpg.jpg',
-        desc: 'личность которую практически везде узнают'
+        desc: 'личность которую практически везде узнают (номер был словлен на аукционе)'
       },
       {
         nick: 'Вейзов',
