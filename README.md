@@ -396,7 +396,7 @@
         media: 'Высокая медийка',
         since: '2023',
         number: '9999',
-        profile: 'https://t.me/userneum',
+        profile: 'без юза',
         img: 'https://github.com/glitterinzem-star/list/raw/691d3cb50a06a4e76eebb88488f0bb0bd105f8d8/georg.jpg.jpg',
         desc: 'часто узнаваемая личность'
       },
