@@ -380,14 +380,24 @@
         desc: 'часто узнаваемая личность ( номер был словлен на аукционе)'
       },
       {
-        nick: 'NoName',
-        rank: 'medium',
-        rankName: 'Средняя',
-        media: 'Малая медийка',
-        since: '2025',
-        profile: 'https://t.me/noname',
+        nick: 'Фартинов',
+        rank: 'high',
+        rankName: 'Высокая',
+        media: 'Высокая медийка',
+        since: '2018',
+        profile: 'https://t.me/nernuq',
         img: 'assets/avatars/avatar1.png',
-        desc: 'описание'
+        desc: 'часто узнаваемая личность'
+      },
+      {
+        nick: 'Георгий',
+        rank: 'high',
+        rankName: 'Высокая',
+        media: 'Высокая медийка',
+        since: '2023',
+        number: '9999',
+        img: 'assets/avatars/avatar1.png',
+        desc: 'часто узнаваемая личность'
       },
       {
         nick: 'ScammerGuy',
