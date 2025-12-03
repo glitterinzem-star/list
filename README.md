@@ -376,8 +376,7 @@
         since: '2023',
         number: '6666',
         profile: 'https://t.me/clonlega',
-        img: 'https://github.com/glitterinzem-star/list/raw/691d3cb50a06a4e76eebb88488f0bb0bd105f8d8/legf.jpg.jpg
-',
+        img: 'https://github.com/glitterinzem-star/list/raw/691d3cb50a06a4e76eebb88488f0bb0bd105f8d8/legf.jpg.jpg',
         desc: 'часто узнаваемая личность ( номер был словлен на аукционе)'
       },
       {
