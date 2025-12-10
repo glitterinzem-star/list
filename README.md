@@ -401,6 +401,17 @@
         desc: 'часто узнаваемая личность'
       },
       {
+        nick: 'Гриша доксеров',
+        rank: 'high',
+        rankName: 'Высокая',
+        media: 'Высокая медийка',
+        since: '2021',
+        number: '1488',
+        profile: 'https://t.me/xiidu',
+        img: 'https://github.com/glitterinzem-star/list/raw/691d3cb50a06a4e76eebb88488f0bb0bd105f8d8/georg.jpg.jpg',
+        desc: 'часто узнаваемая личность'
+      },
+      {
         nick: 'ScammerGuy',
         rank: 'banned',
         rankName: 'Бомж/скамер',
