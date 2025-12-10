@@ -408,7 +408,7 @@
         since: '2021',
         number: '1488',
         profile: 'https://t.me/xiidu',
-        img: 'https://github.com/glitterinzem-star/list/raw/691d3cb50a06a4e76eebb88488f0bb0bd105f8d8/georg.jpg.jpg',
+        img: 'https://github.com/glitterinzem-star/list/raw/3499bd984ceb82b769780c47b10e151e95993411/Grisha.jpg.jpg',
         desc: 'часто узнаваемая личность'
       },
       {
