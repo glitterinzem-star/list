@@ -323,7 +323,7 @@
         since: '2024',
         number: '0000',
         profile: 'https://t.me/AlOsint',
-        img: 'https://github.com/glitterinzem-star/list/raw/2751079d5f1d012bb6d06226949884906edd11fa/alex.jpg.jpeg',
+        img: 'https://github.com/glitterinzem-star/list/raw/47a531734442d00f17861545d7b986e06eb09419/Alex.jpg.jpg',
         desc: 'разработчик сайта'
       },
       {
