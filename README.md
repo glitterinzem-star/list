@@ -418,7 +418,7 @@
         media: 'Средняя медийка',
         since: '2020',
         profile: 'https://t.me/vkkrilov',
-        img: '',
+        img: 'https://github.com/glitterinzem-star/list/raw/4c81520778cec60cd5fa9ba453f39cc4786b4724/krill.jpg.jpg',
         desc: 'часто узнаваемая личность'
       },
       {
