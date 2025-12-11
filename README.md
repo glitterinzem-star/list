@@ -359,12 +359,12 @@
         desc: 'личность которую почти везде узнают'
       },
       {
-        nick: 'Мира Маньяк',
+        nick: 'Антифобова bottom',
         rank: 'medium',
         rankName: 'Средняя',
         media: 'Средняя медийка',
         since: '2024',
-        profile: 'https://t.me/miramaniac',
+        profile: 'https://t.me/antifobova',
         img: 'https://github.com/glitterinzem-star/list/raw/baaa63ce37fc6531ac94eccf5337caf113c15a47/mira.jpg.jpg',
         desc: 'средне узнаваемая личность'
       },
@@ -409,6 +409,16 @@
         number: '1488',
         profile: 'https://t.me/xiidu',
         img: 'https://github.com/glitterinzem-star/list/raw/3499bd984ceb82b769780c47b10e151e95993411/Grisha.jpg.jpg',
+        desc: 'часто узнаваемая личность'
+      },
+      {
+        nick: 'Крилов',
+        rank: 'medium',
+        rankName: 'Высокая',
+        media: 'Средняя медийка',
+        since: '2020',
+        profile: 'https://t.me/vkkrilov',
+        img: '',
         desc: 'часто узнаваемая личность'
       },
       {
