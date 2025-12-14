@@ -432,6 +432,26 @@
         desc: 'всегда узнаваемая личность (присутствует анонимный номер +888 0828 6642)'
       },
       {
+        nick: 'алексей Калашников',
+        rank: 'high',
+        rankName: 'Высокая',
+        media: 'Высокая медийка',
+        since: '2021',
+        profile: 'Https://t.me/axoveb',
+        img: 'потом',
+        desc: 'всегда узнаваемая личность'
+      },
+      {
+        nick: 'метадата Калашников',
+        rank: 'high',
+        rankName: 'Высокая',
+        media: 'Высокая медийка',
+        since: '2023',
+        profile: 'Https://t.me/desertkalash',
+        img: 'потом',
+        desc: 'всегда узнаваемая личность'
+      },
+      {
         nick: 'ScammerGuy',
         rank: 'banned',
         rankName: 'Бомж/скамер',
