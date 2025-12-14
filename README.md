@@ -322,7 +322,7 @@
         media: 'Высокая медийка',
         since: '2024',
         number: '0000',
-        profile: 'https://t.me/AlOsint',
+        profile: 'https://t.me/alexseyTon',
         img: 'https://github.com/glitterinzem-star/list/raw/47a531734442d00f17861545d7b986e06eb09419/Alex.jpg.jpg',
         desc: 'разработчик сайта'
       },
@@ -420,6 +420,16 @@
         profile: 'https://t.me/vkkrilov',
         img: 'https://github.com/glitterinzem-star/list/raw/4c81520778cec60cd5fa9ba453f39cc4786b4724/krill.jpg.jpg',
         desc: 'часто узнаваемая личность'
+      },
+      {
+        nick: 'AMKA',
+        rank: 'low',
+        rankName: 'малая',
+        media: 'малая медийка',
+        since: '2023',
+        profile: 'https://t.me/and_amka',
+        img: 'потом',
+        desc: 'редко узнаваемая личность'
       },
       {
         nick: 'ScammerGuy',
