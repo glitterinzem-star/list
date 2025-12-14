@@ -380,16 +380,6 @@
         desc: 'часто узнаваемая личность ( номер был словлен на аукционе)'
       },
       {
-        nick: 'Фартинов',
-        rank: 'high',
-        rankName: 'Высокая',
-        media: 'Высокая медийка',
-        since: '2018',
-        profile: 'https://t.me/nernuq',
-        img: 'https://github.com/glitterinzem-star/list/raw/691d3cb50a06a4e76eebb88488f0bb0bd105f8d8/fart.jpg.jpg',
-        desc: 'часто узнаваемая личность'
-      },
-      {
         nick: 'Георгий',
         rank: 'high',
         rankName: 'Высокая',
@@ -401,7 +391,7 @@
         desc: 'часто узнаваемая личность'
       },
       {
-        nick: 'Гриша доксеров',
+        nick: 'Гришаня доксеров',
         rank: 'high',
         rankName: 'Высокая',
         media: 'Высокая медийка',
