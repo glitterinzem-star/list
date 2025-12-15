@@ -452,6 +452,16 @@
         desc: 'всегда узнаваемая личность'
       },
       {
+        nick: 'Психокилл',
+        rank: 'high',
+        rankName: 'Высокая',
+        media: 'Высокая медийка',
+        since: '2023',
+        profile: 'Https://t.me/Https://t.me/psixokil',
+        img: 'потом',
+        desc: 'часто узнаваемая личность'
+      },
+      {
         nick: 'ScammerGuy',
         rank: 'banned',
         rankName: 'Бомж/скамер',
