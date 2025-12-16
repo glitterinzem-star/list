@@ -438,7 +438,7 @@
         media: 'Высокая медийка',
         since: '2021',
         profile: 'Https://t.me/axoveb',
-        img: 'потом',
+        img: 'https://github.com/glitterinzem-star/list/raw/d9a5f7046386e24570f23fb0a6684f80372ef2dc/kalash.jpg.jpg',
         desc: 'всегда узнаваемая личность'
       },
       {
@@ -458,7 +458,7 @@
         media: 'Высокая медийка',
         since: '2023',
         profile: 'Https://t.me/Https://t.me/psixokil',
-        img: 'потом',
+        img: 'https://github.com/glitterinzem-star/list/raw/d9a5f7046386e24570f23fb0a6684f80372ef2dc/psixo.jpg.jpg',
         desc: 'часто узнаваемая личность'
       },
       {
