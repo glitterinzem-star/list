@@ -448,7 +448,7 @@
         media: 'Высокая медийка',
         since: '2023',
         profile: 'Https://t.me/desertkalash',
-        img: 'https://github.com/glitterinzem-star/list/blob/d9a5f7046386e24570f23fb0a6684f80372ef2dc/metada.jpg.jpg',
+        img: 'https://github.com/glitterinzem-star/list/raw/d9a5f7046386e24570f23fb0a6684f80372ef2dc/metada.jpg.jpg',
         desc: 'всегда узнаваемая личность'
       },
       {
