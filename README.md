@@ -428,7 +428,7 @@
         media: 'Высокая медийка',
         since: '2021',
         profile: 'https://t.me/heroed',
-        img: 'потом',
+        img: 'https://github.com/glitterinzem-star/list/raw/5b256ba4dbab387d2a6af10f5050d99073823bda/onega.jpg.jpg',
         desc: 'всегда узнаваемая личность (присутствует анонимный номер +888 0828 6642)'
       },
       {
