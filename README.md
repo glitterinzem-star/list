@@ -322,8 +322,8 @@
         media: 'Высокая медийка',
         since: '2024',
         number: '0000',
-        profile: 'https://t.me/alexseyTon',
-        img: 'https://github.com/glitterinzem-star/list/raw/47a531734442d00f17861545d7b986e06eb09419/Alex.jpg.jpg',
+        profile: 'https://t.me/wylabs',
+        img: 'https://github.com/glitterinzem-star/list/raw/3aa7259f931dfbcc4e7e5c01b5aac501ce678bc6/alexw.jpg.jpg',
         desc: 'разработчик сайта'
       },
       {
