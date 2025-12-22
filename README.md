@@ -518,7 +518,8 @@
         media: 'Малая медийка',
         since: '2024',
         profile: 'Https://t.me/Https://t.me/LeTy99',
-        img: 'https://github.com/glitterinzem-star/list/raw/df517d5570895e26c048ccd589f32a8b551b39cc/lety.jpg.jpg',
+        img:
+'https://github.com/glitterinzem-star/list/raw/df517d5570895e26c048ccd589f32a8b551b39cc/lety.jpg.jpg',
         desc: 'редко узнаваемая личность'
       },
       {
