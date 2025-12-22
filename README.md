@@ -472,6 +472,56 @@
         desc: 'часто узнаваемая личность'
       },
       {
+        nick: 'Алексей воробьев',
+        rank: 'medium',
+        rankName: 'Средняя',
+        media: 'Средняя медийка',
+        since: '2023',
+        profile: 'Https://t.me/Https://t.me/патом',
+        img: 'https://github.com/glitterinzem-star/list/raw/df517d5570895e26c048ccd589f32a8b551b39cc/vorob.jpg.jpg',
+        desc: 'часто узнаваемая личность'
+      },
+      {
+        nick: 'редкент',
+        rank: 'high',
+        rankName: 'Высокая',
+        media: 'Высокая медийка',
+        since: '2019',
+        profile: 'Https://t.me/Https://t.me/патом',
+        img: 'https://github.com/glitterinzem-star/list/raw/df517d5570895e26c048ccd589f32a8b551b39cc/redket.jpg.jpg',
+        desc: 'пришел с ДС часто узнаваемая личность'
+      },
+      {
+        nick: Amikronov',
+        rank: 'medium',
+        rankName: 'Средняя',
+        media: 'Средняя медийка',
+        since: '2021',
+        profile: 'Https://t.me/Https://t.me/патом',
+        img: 'https://github.com/glitterinzem-star/list/raw/df517d5570895e26c048ccd589f32a8b551b39cc/nikro.jpg.jpg',
+        desc: 'часто узнаваемая личность'
+      },
+      {
+        nick: 'психотеропия',
+        rank: 'medium',
+        rankName: 'Средняя',
+        media: 'Средняя медийка',
+        since: '2024',
+        profile: 'Https://t.me/Https://t.me/патом',
+        img: 'https://github.com/glitterinzem-star/list/raw/df517d5570895e26c048ccd589f32a8b551b39cc/psixoterap.jpg.jpg',
+        desc: 'часто узнаваемая личность'
+      },
+      {
+        nick: 'LeTy',
+        rank: 'low',
+        rankName: 'Малая',
+        media: 'Малая медийка',
+        since: '2024',
+        profile: 'Https://t.me/Https://t.me/патом',
+        img: 'https://github.com/glitterinzem-star/list/raw/df517d5570895e26c048ccd589f32a8b551b39cc/lety.jpg.jpg',
+        desc: 'редко узнаваемая личность'
+      },
+      {
         nick: 'ScammerGuy',
         rank: 'banned',
         rankName: 'Бомж/скамер',
