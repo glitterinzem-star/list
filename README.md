@@ -477,7 +477,7 @@
         rankName: 'Средняя',
         media: 'Средняя медийка',
         since: '2023',
-        profile: 'Https://t.me/Https://t.me/патом',
+        profile: 'Https://t.me/Https://t.me/homemurder',
         img: 'https://github.com/glitterinzem-star/list/raw/df517d5570895e26c048ccd589f32a8b551b39cc/vorob.jpg.jpg',
         desc: 'часто узнаваемая личность'
       },
@@ -487,7 +487,7 @@
         rankName: 'Высокая',
         media: 'Высокая медийка',
         since: '2019',
-        profile: 'Https://t.me/Https://t.me/патом',
+        profile: 'Https://t.me/Https://t.me/cvvpoIice',
         img: 'https://github.com/glitterinzem-star/list/raw/df517d5570895e26c048ccd589f32a8b551b39cc/redket.jpg.jpg',
         desc: 'пришел с ДС часто узнаваемая личность'
       },
@@ -497,7 +497,7 @@
         rankName: 'Средняя',
         media: 'Средняя медийка',
         since: '2021',
-        profile: 'Https://t.me/Https://t.me/патом',
+        profile: 'Https://t.me/Https://t.me/eksez',
         img: 'https://github.com/glitterinzem-star/list/raw/df517d5570895e26c048ccd589f32a8b551b39cc/nikro.jpg.jpg',
         desc: 'часто узнаваемая личность'
       },
@@ -507,7 +507,7 @@
         rankName: 'Средняя',
         media: 'Средняя медийка',
         since: '2024',
-        profile: 'Https://t.me/Https://t.me/патом',
+        profile: 'https://t.me/pc1xoterapia',
         img: 'https://github.com/glitterinzem-star/list/raw/df517d5570895e26c048ccd589f32a8b551b39cc/psixoterap.jpg.jpg',
         desc: 'часто узнаваемая личность'
       },
@@ -517,7 +517,7 @@
         rankName: 'Малая',
         media: 'Малая медийка',
         since: '2024',
-        profile: 'Https://t.me/Https://t.me/патом',
+        profile: 'Https://t.me/Https://t.me/LeTy99',
         img: 'https://github.com/glitterinzem-star/list/raw/df517d5570895e26c048ccd589f32a8b551b39cc/lety.jpg.jpg',
         desc: 'редко узнаваемая личность'
       },
