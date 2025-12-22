@@ -492,7 +492,7 @@
         desc: 'пришел с ДС часто узнаваемая личность'
       },
       {
-        nick: Amikronov',
+        nick: 'Amikronov',
         rank: 'medium',
         rankName: 'Средняя',
         media: 'Средняя медийка',
