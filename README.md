@@ -493,9 +493,9 @@
       },
       {
         nick: 'Amikronov',
-        rank: 'medium',
-        rankName: 'Средняя',
-        media: 'Средняя медийка',
+        rank: 'high',
+        rankName: 'высокая',
+        media: 'высокая медийка',
         since: '2021',
         profile: 'Https://t.me/Https://t.me/eksez',
         img: 'https://github.com/glitterinzem-star/list/raw/df517d5570895e26c048ccd589f32a8b551b39cc/nikro.jpg.jpg',
