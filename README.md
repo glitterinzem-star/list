@@ -523,6 +523,16 @@
         desc: 'редко узнаваемая личность'
       },
       {
+        nick: 'антихайп ферзев',
+        rank: 'medium',
+        rankName: 'Средняя',
+        media: 'Средняя медийка',
+        since: '2020',
+        profile: 'Https://t.me/Https://t.me/ahh35',
+        img: 'потом',
+        desc: 'часто узнаваемая личность'
+      },
+      {
         nick: 'ScammerGuy',
         rank: 'banned',
         rankName: 'Бомж/скамер',
