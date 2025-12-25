@@ -533,6 +533,15 @@
         desc: 'часто узнаваемая личность'
       },
       {
+        nick: 'Psyhodead',
+        rank: 'medium',
+        rankName: 'Средняя',
+        media: 'Средняя медийка',
+        since: '2022',
+        profile: 'Https://t.me/Psixoparanoik',
+        img: 'потом',
+        desc: 'часто узнаваемая личность'
+      },
         nick: 'ScammerGuy',
         rank: 'banned',
         rankName: 'Бомж/скамер',
