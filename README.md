@@ -542,6 +542,7 @@
         img: 'потом',
         desc: 'часто узнаваемая личность'
       },
+      {
         nick: 'ScammerGuy',
         rank: 'banned',
         rankName: 'Бомж/скамер',
