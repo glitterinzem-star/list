@@ -543,6 +543,26 @@
         desc: 'часто узнаваемая личность'
       },
       {
+        nick: 'Lonazov',
+        rank: 'high',
+        rankName: 'Высокая',
+        media: 'Средняя медийка',
+        since: '2021',
+        profile: 'Https://t.me/lonazov',
+        img: 'потом',
+        desc: 'часто узнаваемая личность'
+      },
+      {
+        nick: 'Provokator Slowdy',
+        rank: 'high',
+        rankName: 'Высокая',
+        media: 'Средняя медийка',
+        since: '2022',
+        profile: 'Https://t.me/attackslowdyy',
+        img: 'потом',
+        desc: 'часто узнаваемая личность'
+      },
+      {
         nick: 'ScammerGuy',
         rank: 'banned',
         rankName: 'Бомж/скамер',
