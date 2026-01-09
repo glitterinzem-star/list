@@ -412,16 +412,6 @@
         desc: 'часто узнаваемая личность'
       },
       {
-        nick: 'AMKA',
-        rank: 'low',
-        rankName: 'малая',
-        media: 'малая медийка',
-        since: '2023',
-        profile: 'https://t.me/and_amka',
-        img: 'потом',
-        desc: 'редко узнаваемая личность'
-      },
-      {
         nick: 'прокурор Онегин',
         rank: 'high',
         rankName: 'Высокая',
@@ -529,7 +519,7 @@
         media: 'Средняя медийка',
         since: '2020',
         profile: 'Https://t.me/ahh35',
-        img: 'потом',
+        img: 'https://github.com/glitterinzem-star/list/raw/93a7cc0325fdb53e37d7bee2b49fc24f39dac360/antixap.jpg.jpg',
         desc: 'часто узнаваемая личность'
       },
       {
@@ -546,31 +536,41 @@
         nick: 'Lonazov',
         rank: 'high',
         rankName: 'Высокая',
-        media: 'Средняя медийка',
+        media: 'Высокая медийка',
         since: '2021',
         profile: 'Https://t.me/lonazov',
-        img: 'потом',
+        img: 'https://github.com/glitterinzem-star/list/raw/ff601d13f670be502828d9e341a1bf6d1f3ac6f1/slowy.jpg.jpg',
         desc: 'часто узнаваемая личность'
       },
       {
         nick: 'Provokator Slowdy',
         rank: 'high',
         rankName: 'Высокая',
-        media: 'Средняя медийка',
+        media: 'Высокая медийка',
         since: '2022',
         profile: 'Https://t.me/attackslowdyy',
-        img: 'потом',
+        img: 'https://github.com/glitterinzem-star/list/raw/ff601d13f670be502828d9e341a1bf6d1f3ac6f1/slowy.jpg.jpg',
         desc: 'часто узнаваемая личность'
       },
       {
-        nick: 'ScammerGuy',
-        rank: 'banned',
-        rankName: 'Бомж/скамер',
-        media: 'Бомж/скамер',
-        since: '2025',
-        profile: 'https://t.me/ScammerGuy',
-        img: 'assets/avatars/avatar2.png',
-        desc: 'Бан за мошенничество.'
+        nick: 'shok',
+        rank: 'medium',
+        rankName: 'Средняя',
+        media: 'Средняя медийка',
+        since: '2022',
+        profile: 'Https://t.me/cisfames',
+        img: 'https://github.com/glitterinzem-star/list/raw/d57cc1fd9913484a05fdaaa80cf5fc09e53da620/shok.jpg.jpg',
+        desc: 'редко узнаваемая личность'
+      },
+      {
+        nick: 'kiruha musicant',
+        rank: 'medium',
+        rankName: 'Средняя',
+        media: 'Средняя медийка',
+        since: '2023',
+        profile: 'Https://t.me/doxrur',
+        img: 'https://github.com/glitterinzem-star/list/raw/0581b468c65d10ab54c947de8ccfa2aef106a3a8/kiruha.jpg.jpg',
+        desc: 'часто узнаваемая личность'
       }
     ];
 
