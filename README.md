@@ -563,6 +563,16 @@
         desc: 'редко узнаваемая личность'
       },
       {
+        nick: 'фанов киллорд',
+        rank: 'medium',
+        rankName: 'Средняя',
+        media: 'Средняя медийка',
+        since: '2022',
+        profile: 'Https://t.me/estswat',
+        img: 'потом',
+        desc: 'редко узнаваемая личность'
+      },
+      {
         nick: 'kiruha musicant',
         rank: 'medium',
         rankName: 'Средняя',
