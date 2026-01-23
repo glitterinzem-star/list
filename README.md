@@ -563,6 +563,16 @@
         desc: 'редко узнаваемая личность'
       },
       {
+        nick: 'Евгений Комьюнитев',
+        rank: 'medium',
+        rankName: 'Средняя',
+        media: 'Средняя медийка',
+        since: '2021',
+        profile: 'Https://t.me/Comunitev',
+        img: 'потом',
+        desc: 'редко узнаваемая личность'
+      },
+      {
         nick: 'фанов киллорд',
         rank: 'medium',
         rankName: 'Средняя',
