@@ -463,13 +463,13 @@
         desc: 'редко узнаваемая личность'
       },
       {
-        nick: 'фанов киллорд',
+        nick: 'фанов',
         rank: 'medium',
         rankName: 'Средняя',
         media: 'Средняя медийка',
         since: '2022',
         profile: 'Https://t.me/estswat',
-        img: 'потом',
+        img: 'https://github.com/glitterinzem-star/list/raw/a25f72f562caeb929d6e1efd2ee790c50f122043/fanovvvvvvvvvvvvvvv.jpg',
         desc: 'редко узнаваемая личность'
       },
       {
