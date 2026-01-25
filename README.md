@@ -348,7 +348,7 @@
         media: 'Высокая медийка',
         since: '2023',
         profile: 'Https://t.me/fuckfanovskiy',
-        img: 'потом',
+        img: 'https://github.com/glitterinzem-star/list/raw/54b253a0e2197a4b582d732596ce975c5d99f778/fanov.jpg',
         desc: 'часто узнаваемая личность'
       },
       {
@@ -419,7 +419,7 @@
         media: 'Средняя медийка',
         since: '2022',
         profile: 'Https://t.me/Psixoparanoik',
-        img: 'потом',
+        img: 'https://github.com/glitterinzem-star/list/raw/54b253a0e2197a4b582d732596ce975c5d99f778/psixo.jpg',
         desc: 'часто узнаваемая личность'
       },
       {
