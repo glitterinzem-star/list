@@ -213,7 +213,7 @@
         since: '2024',
         number: '0000',
         profile: 'https://t.me/wabcir',
-        img: 'https://github.com/glitterinzem-star/list/raw/3aa7259f931dfbcc4e7e5c01b5aac501ce678bc6/alexw.jpg.jpg',
+        img: 'https://github.com/glitterinzem-star/list/raw/fb698b39dd4f131a1013adc883f4f41667622374/ckgo.jpg',
         desc: 'разработчик сайта'
       },
       {
