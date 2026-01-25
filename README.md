@@ -213,7 +213,7 @@
         since: '2024',
         number: '0000',
         profile: 'https://t.me/wabcir',
-        img: 'https://github.com/glitterinzem-star/list/raw/fb698b39dd4f131a1013adc883f4f41667622374/ckgo.jpg',
+        img: 'https://github.com/glitterinzem-star/list/raw/0844c9fa9227dc5dc76e29d8a0abc08462b6364b/alexos.jpg',
         desc: 'разработчик сайта'
       },
       {
@@ -459,7 +459,7 @@
         media: 'Средняя медийка',
         since: '2021',
         profile: 'Https://t.me/Comunitev',
-        img: 'потом',
+        img: 'https://github.com/glitterinzem-star/list/raw/fb698b39dd4f131a1013adc883f4f41667622374/ckgo.jpg',
         desc: 'редко узнаваемая личность'
       },
       {
