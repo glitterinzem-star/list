@@ -403,6 +403,16 @@
         desc: 'редко узнаваемая личность'
       },
       {
+        nick: 'Карма',
+        rank: 'low',
+        rankName: 'Малая',
+        media: 'Малая медийка',
+        since: '2025',
+        profile: 'https://t.me/xsenow',
+        img:'потом',
+        desc: 'редко узнаваемая личность'
+      },
+      {
         nick: 'антихайп ферзев',
         rank: 'medium',
         rankName: 'Средняя',
