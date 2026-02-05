@@ -22,10 +22,10 @@ background-size: cover;}
     /* Header */
     .site-header{position:sticky;top:0;background:linear-gradient(180deg, rgba(2,6,23,0.6), rgba(2,6,23,0.3));backdrop-filter:blur(6px);border-bottom:1px solid rgba(255,255,255,0.02);z-index:10}
     .header-inner{display:flex;align-items:center;justify-content:space-between;padding:12px 0}
-    .logo{font-weight:700;text-decoration:none;color:var(--accent);font-size:20px;cursor:pointer}
+    .logo{font-weight:700;text-decoration:none;color:#ffb86b;font-size:20px;cursor:pointer}
     .main-nav{display:flex;gap:16px}
-    .main-nav a{color:#E0E0E0;text-decoration:none;cursor:pointer;white-space:nowrap}
-    .main-nav a.active{color:var(--accent);font-weight:600}
+    .main-nav a{color:#e0e0e0;text-decoration:none;cursor:pointer;white-space:nowrap}
+    .main-nav a.active{color:#ffb86b;font-weight:600}
 
     /* Hero */
     .hero{text-align:center;padding:28px 0}
