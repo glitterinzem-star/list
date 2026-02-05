@@ -24,7 +24,7 @@ background-size: cover;}
     .header-inner{display:flex;align-items:center;justify-content:space-between;padding:12px 0}
     .logo{font-weight:700;text-decoration:none;color:var(--accent);font-size:20px;cursor:pointer}
     .main-nav{display:flex;gap:16px}
-    .main-nav a{color:var(--muted);text-decoration:none;cursor:pointer;white-space:nowrap}
+    .main-nav a{color:#E0E0E0;text-decoration:none;cursor:pointer;white-space:nowrap}
     .main-nav a.active{color:var(--accent);font-weight:600}
 
     /* Hero */
