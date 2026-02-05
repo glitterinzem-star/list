@@ -15,7 +15,8 @@
     /* Reset-ish */
     *{box-sizing:border-box}
     html,body{height:100%}
-    body{margin:0;font-family:Inter,Segoe UI,Arial;background:linear-gradient(180deg,var(--bg),#03121a);color:#e6eef6;-webkit-font-smoothing:antialiased}
+    body{margin:0;font-family:Inter,Segoe UI,Arial;background: linear-gradient(rgba(7, 16, 23, 0.85), rgba(3, 18, 26, 0.9)), url('https://ссылка-на-ваше-фото.jpg') no-repeat center center fixed;
+background-size: cover;}
     .container{max-width:1100px;margin:0 auto;padding:20px}
 
     /* Header */
@@ -205,8 +206,8 @@
   <script>
     // ======= Demo-данные с номерами =======
     const people = [
-      {
-        nick: 'Эдвард Алдерсон',
+       {
+        nick: 'Алексей',
         rank: 'owner',
         rankName: 'Разработчик',
         media: 'Высокая медийка',
