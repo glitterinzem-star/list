@@ -43,7 +43,7 @@ background-size: cover;}
     .card img{width:72px;height:72px;border-radius:50%;object-fit:cover;flex-shrink:0}
     .card-body{flex:1}
     .nick-row{display:flex;align-items:center;gap:8px;justify-content:space-between}
-    .nick{margin:0;font-size:18px;color:#c0c0c0}
+    .nick{margin:0;font-size:18px}
     .badge{padding:6px 8px;border-radius:999px;font-weight:700;font-size:12px;color:#071017}
     .badge.owner{background:gold}
     .badge.high{background:#ff8c00}
