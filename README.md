@@ -295,7 +295,7 @@ background-size: cover;}
       {
         nick: 'Крилов',
         rank: 'medium',
-        rankName: 'Высокая',
+        rankName: 'Средняя',
         media: 'Средняя медийка',
         since: '2020',
         profile: 'https://t.me/vkkrilov',
