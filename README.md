@@ -24,8 +24,10 @@ background-size: cover;}
     .header-inner{display:flex;align-items:center;justify-content:space-between;padding:12px 0}
     .logo{font-weight:700;text-decoration:none;color:#ffb86b;font-size:20px;cursor:pointer}
     .main-nav{display:flex;gap:16px}
-    .main-nav a{color:#e0e0e0;text-decoration:none;cursor:pointer;white-space:nowrap}
-    .main-nav a.active{color:#ffb86b;font-weight:600}
+    .main-nav a{color:#e0e0e0;text-decoration:none;cursor:pointer;white-space:nowrap;border-radius:999px;padding:6px 12px;transition:all 0.2s ease}
+    .main-nav a:hover{background:rgba(255,184,107,0.1)}
+    .main-nav a:active{background:rgba(255,184,107,0.3);transform:scale(0.95)}
+    .main-nav a.active{color:#ffb86b;font-weight:600;background:rgba(255,184,107,0.15)}
 
     /* Hero */
     .hero{text-align:center;padding:28px 0}
@@ -34,11 +36,12 @@ background-size: cover;}
 
     /* Controls */
     .controls{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-bottom:6px}
-    .controls input, .controls select{padding:10px 12px;border-radius:10px;border:1px solid rgba(255,255,255,0.04);background:var(--glass);color:inherit;min-width:180px}
-    .btn{padding:10px 14px;border-radius:10px;border:0;background:var(--accent);color:#071017;cursor:pointer;font-weight:700;text-decoration:none;display:inline-block}
+    .controls input, .controls select{padding:10px 12px;border-radius:999px;border:1px solid rgba(255,255,255,0.04);background:var(--glass);color:inherit;min-width:180px}
+    .btn{padding:10px 14px;border-radius:999px;border:0;background:var(--accent);color:#071017;cursor:pointer;font-weight:700;text-decoration:none;display:inline-block;transition:all 0.2s ease}
+    .btn:active{background:#ffa03c;transform:scale(0.95)}
 
-    /* Grid */
-    .cards-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-top:18px}
+    /* Grid - 5 cards per row */
+    .cards-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:16px;margin-top:18px}
     .card{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.18));padding:14px;border-radius:12px;display:flex;gap:14px;align-items:flex-start;box-shadow:0 8px 20px rgba(2,6,23,0.6);border:1px solid rgba(255,255,255,0.03)}
     .card img{width:72px;height:72px;border-radius:50%;object-fit:cover;flex-shrink:0}
     .card-body{flex:1}
@@ -63,8 +66,8 @@ background-size: cover;}
     /* Apply form */
     .apply-form{max-width:700px;margin:0 auto;margin-top:12px;display:grid;gap:10px}
     .apply-form label{display:flex;flex-direction:column;color:var(--muted);font-size:14px}
-    .apply-form input, .apply-form select, .apply-form textarea{padding:10px;border-radius:10px;border:1px solid rgba(255,255,255,0.04);background:var(--glass);color:inherit}
-    .apply-form textarea{min-height:90px;resize:vertical}
+    .apply-form input, .apply-form select, .apply-form textarea{padding:10px;border-radius:999px;border:1px solid rgba(255,255,255,0.04);background:var(--glass);color:inherit}
+    .apply-form textarea{min-height:90px;resize:vertical;border-radius:12px}
     .format-info{background:rgba(255,255,255,0.03);padding:16px;border-radius:12px;margin-bottom:20px;border:1px solid rgba(255,255,255,0.05)}
     .format-info h3{color:var(--accent);margin-top:0}
 
@@ -76,9 +79,15 @@ background-size: cover;}
     .page.active{display:block;}
 
     /* Mobile */
+    @media (max-width:1100px){
+      .cards-grid{grid-template-columns:repeat(4,1fr)}
+    }
+    @media (max-width:900px){
+      .cards-grid{grid-template-columns:repeat(3,1fr)}
+    }
     @media (max-width:720px){
       .profile-top{flex-direction:column;align-items:flex-start}
-      .cards-grid{grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}
+      .cards-grid{grid-template-columns:repeat(2,1fr)}
       .hero h1{font-size:28px}
       .header-inner{flex-direction:column;gap:12px;text-align:center}
       .main-nav{gap:12px;justify-content:center}
@@ -214,7 +223,7 @@ background-size: cover;}
         since: '2024',
         number: '0000',
         profile: 'https://t.me/ff_t_me',
-        img: 'https://github.com/glitterinzem-star/list/raw/eb19b47512794568c09bc9e9c087eba26a1acc55/alexsss.jpg',
+        img: 'https://github.com/glitterinzem-star/list/raw/23704a1d6352d99918f2f81a3efff5917cf05acb/ff.jpg.jpg',
         desc: 'разработчик сайта'
       },
       {
