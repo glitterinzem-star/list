@@ -207,13 +207,13 @@ background-size: cover;}
     // ======= Demo-данные с номерами =======
     const people = [
        {
-        nick: 'Алексей',
+        nick: 'фф',
         rank: 'owner',
         rankName: 'Разработчик',
         media: 'Высокая медийка',
         since: '2024',
         number: '0000',
-        profile: 'https://t.me/wabcir',
+        profile: 'https://t.me/ff_t_me',
         img: 'https://github.com/glitterinzem-star/list/raw/eb19b47512794568c09bc9e9c087eba26a1acc55/alexsss.jpg',
         desc: 'разработчик сайта'
       },
