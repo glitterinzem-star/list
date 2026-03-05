@@ -223,7 +223,18 @@ background-size: cover;}
         since: '2024',
         number: '0000',
         profile: 'https://t.me/ff_t_me',
-        img: 'https://github.com/glitterinzem-star/list/raw/23704a1d6352d99918f2f81a3efff5917cf05acb/ff.jpg.jpg',
+        img: 'https://github.com/glitterinzem-star/list/raw/4c8b2abeb21183471aefa80fdca458a879c4c4a2/ff_t_me.jpg',
+        desc: 'разработчик сайта'
+      },
+      {
+        nick: 'внд.фф',
+        rank: 'owner',
+        rankName: 'Разработчик',
+        media: 'Высокая медийка',
+        since: '2024',
+        number: '0001',
+        profile: 'https://t.me/vnd_t_me',
+        img: 'https://github.com/glitterinzem-star/list/raw/4c8b2abeb21183471aefa80fdca458a879c4c4a2/vnd_t_me.jpg',
         desc: 'разработчик сайта'
       },
       {
